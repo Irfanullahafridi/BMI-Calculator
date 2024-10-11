@@ -46,14 +46,14 @@ button {
 }
 button:hover{
     cursor: pointer;
-    color: white;
+    color: rgb(252, 244, 244);
     background-color: blue;
 }
 
 input {
     padding: 10px;
     font-size: 16px;
-    border: 1px solid #ddd;
+    border: 1px solid #fab4b4;
     border-radius: 4px;
 }
 
