@@ -35,4 +35,4 @@ function calculateBMI() {
 }
 
 // Add event listener to the button to calculate BMI when clicked
-document.getElementById("calculate-btn").addEventListener("click", calculateBMI);
+document.getElementById("btn").addEventListener("click", calculateBMI);
